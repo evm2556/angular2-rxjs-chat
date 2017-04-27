@@ -1,0 +1,8 @@
+/Users/evm/hwapp/bin/Debug/netcoreapp1.1/hwapp.deps.json
+/Users/evm/hwapp/bin/Debug/netcoreapp1.1/hwapp.runtimeconfig.json
+/Users/evm/hwapp/bin/Debug/netcoreapp1.1/hwapp.runtimeconfig.dev.json
+/Users/evm/hwapp/bin/Debug/netcoreapp1.1/hwapp.dll
+/Users/evm/hwapp/bin/Debug/netcoreapp1.1/hwapp.pdb
+/Users/evm/hwapp/obj/Debug/netcoreapp1.1/hwapp.AssemblyInfo.cs
+/Users/evm/hwapp/obj/Debug/netcoreapp1.1/hwapp.dll
+/Users/evm/hwapp/obj/Debug/netcoreapp1.1/hwapp.pdb

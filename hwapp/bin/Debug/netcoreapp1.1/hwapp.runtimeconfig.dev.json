@@ -1,0 +1,7 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/evm/.nuget/packages"
+    ]
+  }
+}

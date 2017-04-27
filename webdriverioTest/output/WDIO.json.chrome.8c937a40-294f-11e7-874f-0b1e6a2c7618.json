@@ -1,0 +1,47 @@
+{
+    "start": "2017-04-25T00:38:33.571Z",
+    "end": "2017-04-25T00:38:49.568Z",
+    "capabilities": {
+        "maxInstances": 5,
+        "browserName": "chrome"
+    },
+    "host": "127.0.0.1",
+    "port": 4444,
+    "baseUrl": "http://localhost",
+    "framework": "jasmine",
+    "mochaOpts": {
+        "timeout": 10000
+    },
+    "suites": [
+        {
+            "name": "Offutt class pages",
+            "duration": 13075,
+            "start": "2017-04-25T00:38:36.282Z",
+            "end": "2017-04-25T00:38:49.357Z",
+            "tests": [
+                {
+                    "name": "should return home",
+                    "start": "2017-04-25T00:38:36.283Z",
+                    "end": "2017-04-25T00:38:41.458Z",
+                    "duration": 5175,
+                    "state": "fail",
+                    "error": "Failed: An element could not be located on the page using the given search parameters.",
+                    "standardError": "Error: An element could not be located on the page using the given search parameters...."
+                },
+                {
+                    "name": "should have schedules",
+                    "start": "2017-04-25T00:38:41.459Z",
+                    "end": "2017-04-25T00:38:49.357Z",
+                    "duration": 7898,
+                    "state": "pass"
+                }
+            ],
+            "hooks": []
+        }
+    ],
+    "state": {
+        "passed": 1,
+        "failed": 1,
+        "skipped": 0
+    }
+}
